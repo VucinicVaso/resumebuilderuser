@@ -1,6 +1,6 @@
 import 'package:wtoolboxweb/translation/wtw_translations.dart';
-import 'resumebuilderuser_me_mne_translations.dart';
-import 'resumebuilderuser_en_us_translations.dart';
+import 'rbu_me_mne_translations.dart';
+import 'rbu_en_us_translations.dart';
 
 class ResumeBuilderUserTranslations extends WTWTranslations {
 
